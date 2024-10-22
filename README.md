@@ -14,7 +14,7 @@ Aprende-se durante o curso a:
 
 O conteúdo abrange também:
 - Arquitetura **MVC**
-- **Segurança em PHP**
+- **Segurança** em **PHP**
 - **Frameworks**
 
 Finalizando com **projetos práticos**.
@@ -23,9 +23,9 @@ Finalizando com **projetos práticos**.
 
 ## Curso Infraestrutura Web
 Aborda desde a **instalação e personalização** de editores de código e IDEs até a **configuração prática de servidores**. Os tópicos incluem:
-- **Ferramentas e gerenciamento**
-- **Domínios e hospedagem**
-- **VPS e servidores dedicados**
+- **Ferramentas** e **gerenciamento**
+- **Domínios** e **hospedagem**
+- **VPS** e **servidores dedicados**
 
 O curso inclui também:
 - Utilização de **SSH**
