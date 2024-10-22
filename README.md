@@ -10,7 +10,7 @@ Inicia com **conceitos básicos** e **configuração de servidores**, avançando
 Aprende-se durante o curso a:
 - Criar **web services** e **APIs**
 - Utilizar o **Composer**
-- Integrar **Bootstrap** com PHP
+- Integrar **Bootstrap** com **PHP**
 
 O conteúdo abrange também:
 - Arquitetura **MVC**
@@ -35,4 +35,4 @@ O curso inclui também:
 Além disso, também são abordados tópicos como:
 - **DNS avançado**
 - **Cloudflare**
-- **Docker** são abordados.
+- **Docker**
